@@ -5,3 +5,5 @@
 [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
 
 [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
+
+[530. 二叉搜索树的最小绝对差](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/)
